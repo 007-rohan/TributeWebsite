@@ -1,0 +1,128 @@
+*
+{
+    background-color: lightgray;
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+img
+ {   
+    height: 300px;
+    width: 250px;
+    margin-top: 70px; 
+   margin-left: 50px; 
+   border-radius: 500px;
+   
+}
+
+p
+{
+    margin-top: -50px; 
+    margin-left: 330px;
+    font-size: xx-large;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+
+    
+}
+
+h4
+{
+    margin-left: 555px;
+    margin-top: -1px; 
+}
+
+h5
+{
+    margin-left: 30px;
+    margin-top: 25px;  
+    font-size: xx-large;
+    font-weight: 100;
+}
+
+h6
+{
+    font-weight: 100;
+    text-align: justify;
+    margin-block: 30px;
+    margin-inline: 25px;
+
+}
+
+h3
+{
+    font-weight: lighter;
+    font-size: medium;
+    margin-block: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+
+h2
+{
+    font-weight: lighter;
+    font-size: x-small;
+    text-align: justify;
+    margin-block: -60px;
+    margin-left: 40px;
+    margin-top: 0px;
+    margin-block-end: 90px ;margin-inline-end: 25px;
+
+}
+
+.class1
+{
+    font-size: xx-small;
+    margin-top: -20px;
+    margin-left: 430px;
+    margin-block-end: 25px ;
+    text-align: justify;
+
+}
+
+.class2
+{
+    font-size: xx-small;
+    margin-top: -20px;
+    margin-left: 3px;
+    text-align: justify;
+    text-transform: capitalize;
+    margin-block-start: 5px;
+
+}
+
+
+
+a:link
+{
+    color:red;
+}
+a:visited
+{
+    color: blue;
+}
+a:hover
+{
+    color: orange;
+}
+a:active
+{
+    color:black
+}
+a
+{
+    text-decoration: none;
+}
+
+body
+{
+    border: 12px;
+    border-style: solid;
+    border-color: lightslategray;
+    
+}
